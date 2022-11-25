@@ -8,6 +8,8 @@
 
 ![Atreay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATREAY&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATREAY&layout=compact)](https://github.com/ATREAY/github-readme-stats)
+
 <!---
 ATREAY/ATREAY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
