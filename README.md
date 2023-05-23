@@ -8,7 +8,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ATREAY&theme=dark)](https://git.io/streak-stats)
 
-[!Atreay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATREAY&theme=dark&show_icons=true)
+[![Atreay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATREAY&theme=dark&show_icons=true)]
 
 <!---
 ATREAY/ATREAY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
