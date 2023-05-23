@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ATREAY.
+<h1 align="center">Hi 👋, I'm Atreay Kukanur !!!!</h1><br>
 - 👀 I’m interested in BlockChain, ML and Reactjs.
 - 🌱 I’m currently learning Solidity, nextjs and Kubernates.
 - 💞️ I’m looking to collaborate on BlockChain, Kubernates and Web projects. 
