@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atreay Kukanur !!!!</h1><br>
-- 👀 I’m interested in BlockChain, ML and Reactjs.
-- 🌱 I’m currently learning Solidity, nextjs and Kubernates.
-- 💞️ I’m looking to collaborate on BlockChain, Kubernates and Web projects. 
+- 👀 I’m interested in BlockChain, ML and Reactjs.<br>
+- 🌱 I’m currently learning Solidity, nextjs and Kubernates<br>.
+- 💞️ I’m looking to collaborate on BlockChain, Kubernates and Web projects.<br> 
 <!-- 📫 How to reach me ... -->
 
 [![@atreay8's Holopin board](https://holopin.me/atreay8)](https://holopin.io/@atreay8)
