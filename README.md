@@ -6,7 +6,7 @@
 
 [![@atreay8's Holopin board](https://holopin.me/atreay8)](https://holopin.io/@atreay8)
 
-![Atreay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATREAY&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ATREAY)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATREAY&layout=compact&theme=dark)](https://github.com/ATREAY/github-readme-stats)
 
