@@ -8,11 +8,11 @@
 
 [![@atreay8's Holopin board](https://holopin.me/atreay8)](https://holopin.io/@atreay8)
 
-<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ATREAY&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Atreay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATREAY&theme=dark&show_icons=true)
 ![Atreay's Github Trophies](https://github-profile-trophy.vercel.app/?username=ATREAY&theme=gruvbox)
-</div>
+
 
 <div align="center">
 <i>Follow me around the web:</i><br>
