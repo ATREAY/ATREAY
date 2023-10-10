@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atreay Kukanur !!!!</h1><br>
+<h1 align="center">Hi 👋, I'm Atreay Kukanur !!</h1><br>
 
 - 👀 I’m interested in BlockChain, ML, and Reactjs.<br>
 - 🪄 I’m currently learning Solidity, nextjs, and Kubernetes.<br>
@@ -12,6 +12,12 @@
   
 <a href= "https://meshery.layer5.io/user/05b9a41d-3431-418d-8c7a-bb6bb18380ae?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.svg" alt = "Hacktoberfest Contributor" /></a >
 <a href= "https://meshery.layer5.io/user/05b9a41d-3431-418d-8c7a-bb6bb18380ae?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.svg" alt = "First Design" /></a >
+
+</div>
+
+<div align="center">
+
+![zero-to-merge-cohort-01](https://github.com/ATREAY/ATREAY/assets/66585295/e5a776de-0c25-49db-8213-cb060507340e)
 
 </div>
 
