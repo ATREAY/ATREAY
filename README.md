@@ -9,9 +9,9 @@
 [![@atreay8's Holopin board](https://holopin.me/atreay8)](https://holopin.io/@atreay8)
 
 <div align="center">
-  
+ 
+<a href= "https://meshery.layer5.io/user/05b9a41d-3431-418d-8c7a-bb6bb18380ae?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.svg" alt = "First Design" /></a > 
 <a href= "https://meshery.layer5.io/user/05b9a41d-3431-418d-8c7a-bb6bb18380ae?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.svg" alt = "Hacktoberfest Contributor" /></a >
-<a href= "https://meshery.layer5.io/user/05b9a41d-3431-418d-8c7a-bb6bb18380ae?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.svg" alt = "First Design" /></a >
 
 </div>
 
